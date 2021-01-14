@@ -1,0 +1,52 @@
+[
+ {
+   "state": "Alaska",
+   "votes": 318608,
+   "percentage": 51.3
+ },
+ {
+   "state": "Arizona",
+   "votes": 2573175,
+   "percentage": 48.7
+ },
+ {
+   "state": "California",
+   "votes": 14181595,
+   "percentage": 31.6
+ },
+ {
+   "state": "Florida",
+   "votes": 9420039,
+   "percentage": 49
+ },
+ {
+   "state": "Georgia",
+   "votes": 4114732,
+   "percentage": 50.8
+ },
+ {
+   "state": "Hawaii",
+   "votes": 437664,
+   "percentage": 29.4
+ },
+ {
+   "state": "Louisiana",
+   "votes": 2029032,
+   "percentage": 58.1
+ },
+ {
+   "state": "Massachusetts",
+   "votes": 3378821,
+   "percentage": 32.3
+ },
+ {
+   "state": "Mississippi",
+   "votes": 1209357,
+   "percentage": 57.9
+ },
+ {
+   "state": "Nebraska",
+   "votes": 844227,
+   "percentage": 58.7
+ }
+]
